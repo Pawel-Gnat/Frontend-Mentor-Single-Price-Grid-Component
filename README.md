@@ -20,7 +20,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Live Site URL: [Single Price Grid Component Solution](xx)
+- Live Site URL: [Single Price Grid Component Solution](https://pawel-gnat.github.io/Frontend-Mentor-Single-Price-Grid-Component/)
 
 ## My process
 
